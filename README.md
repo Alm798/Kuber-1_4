@@ -1,5 +1,5 @@
 ## Домашнее задание к занятию «Сетевое взаимодействие в Kubernetes»
-## Михеев Алексей
+
 
 
 ### Чеклист готовности
@@ -89,15 +89,15 @@ service-nodeport.yaml
 
 ### Решение:
 
-![1](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/1.png)
+![1](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/1.png)
 
-![2](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/2.png)
+![2](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/2.png)
 
-![3](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/3.2.png)
+![3](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/3.2.png)
 
-![4](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/3.3.png)
+![4](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/3.3.png)
 
-![5](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/3.png)
+![5](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/3.png)
 
 
 ```
@@ -258,11 +258,11 @@ spec:
 ### Решение:
 
 
-![6](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/4.1.png)
+![6](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/4.1.png)
 
-![7](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/4.2.png)
+![7](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/4.2.png)
 
-![8](https://github.com/Ivan-Shkutov/kuber_1.4/blob/main/jpg/4.3.png)
+![8](https://github.com/Alm798/Kuber-1_4/blob/main/jpg/4.3.png)
 
 
 ```
